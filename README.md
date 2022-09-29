@@ -14,7 +14,7 @@ SDKMAN 5.16.0
 
 Wir öffnen folgenden Link [workspaces](https://gitpod.io/workspaces) und kopieren den SSH Zugang per Accesstoken.
 
-![](assets/20220930_012953_image.png)
+![](./assets/20220930_012953_image.png)
 
 Nachdem wir nun das Kommando kopiert haben, können wir uns mit dem Terminalemulator unser Wahl mit dem GitPod Workspace verbinden.
 
