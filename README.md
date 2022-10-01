@@ -76,3 +76,17 @@ openjdk version "19" 2022-09-20
 OpenJDK Runtime Environment Zulu19.28+81-CA (build 19+36)
 OpenJDK 64-Bit Server VM Zulu19.28+81-CA (build 19+36, mixed mode, sharing
 ```
+
+# Anzeigen der aktuellen installierten Versionen
+
+Die Versionen kann man natürlich auch mit `sdk surrent` anzeigen lassen.
+
+```
+$ sdk c
+
+Using:
+
+gradle: 7.5.1
+java: 11.0.16.fx-zulu
+maven: 3.8.6
+```
