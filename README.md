@@ -79,7 +79,7 @@ OpenJDK 64-Bit Server VM Zulu19.28+81-CA (build 19+36, mixed mode, sharing
 
 # Anzeigen der aktuellen installierten Versionen
 
-Die Versionen kann man natürlich auch mit `sdk surrent` anzeigen lassen.
+Die aktuell installierten Versionen kann man natürlich auch mit `sdk surrent` anzeigen lassen.
 
 ```
 $ sdk c
@@ -90,3 +90,8 @@ gradle: 7.5.1
 java: 11.0.16.fx-zulu
 maven: 3.8.6
 ```
+
+# Shortcuts der Befehle anwenden
+
+Das Programm `sdk` versteht auch gekürzte Befehle. Gibt nur `sdk` ein, dann erhält man die Hilfe und hier kann man auch die
+möglichen Shortcuts für die einzelnen Befehle sich anschauen.
