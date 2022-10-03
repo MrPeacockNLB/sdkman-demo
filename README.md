@@ -61,13 +61,13 @@ Am einfachsten geht es über die Autovervollständigung. Geben wir `sdk install 
 sdk install java 19-zulu
 ```
 
-Die anschließende Frage
+Die anschließende Frage:
 
 ```
 Do you want java 19-zulu to be set as default? (Y/n):
 ```
 
-beantworten wir mit Enter und setzen die neue Version als Default. Überprüfen wir nun kurz die Version von Java noch...
+...beantworten wir mit Enter und setzen die neue Version als Default. Überprüfen wir nun kurz die Version von Java noch...
 
 ```
 $ java -version
@@ -79,10 +79,10 @@ OpenJDK 64-Bit Server VM Zulu19.28+81-CA (build 19+36, mixed mode, sharing
 
 # Anzeigen der aktuellen installierten Versionen
 
-Die aktuell installierten Versionen kann man natürlich auch mit `sdk surrent` anzeigen lassen.
+Die aktuell installierten Versionen kann man natürlich auch mit `sdk current` anzeigen lassen.
 
 ```
-$ sdk c
+$ sdk current
 
 Using:
 
